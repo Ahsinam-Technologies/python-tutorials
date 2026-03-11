@@ -45,13 +45,14 @@
 
 Write the following list of keywords on the board. 
 
-| Keywords in Python | | | | 
-| --- | --- | --- | --- | 
-| True | and | if | import | 
-| False | or | elif | global |
-| None | not | else | nonlocal |
-| | is | break | from |
-| | in | continue | 
+| Keywords in Python | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | 
+| True | and | if | import | class | try | async |
+| False | or | elif | from | self | except | await |
+| None | not | for | as | | finally |
+| del | is | else | global | | raise |
+| | in | break | nonlocal | | assert | 
+| | | continue | | | with | 
 | | | def | 
 | | | return |
 | | | pass |
@@ -118,3 +119,6 @@ THIS IS END OF PART 1 OF PYTHON.
 
 ---
 
+PART 2 covers classes & objects, exception handling, files, packages, static & class methods, inheritance, and decorators.
+
+---
